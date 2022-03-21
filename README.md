@@ -1,5 +1,5 @@
 # Databases
-## Workings on databases
+## Workings on databases with SQL (in MySQL)
 ### LR2 - Creating tables
 ### LR3 - Filling tables
 ### LR4 - Executing requests
